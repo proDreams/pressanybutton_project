@@ -18,7 +18,8 @@
 3. [Django 3. Базовая конфигурация](https://pressanybutton.ru/post/sajt-na-django/django-3-bazovaya-konfiguraciya/?utm_source=github&utm_medium=repo&utm_campaign=readme) - 
 4. [Django 4. Суперпользователь и первый запуск](https://pressanybutton.ru/post/sajt-na-django/django-4-superpolzovatel-i-pervyj-zapusk/?utm_source=github&utm_medium=repo&utm_campaign=readme)
 5. [AIOgram3 1. Начинаем создавать Telegram-бота](https://pressanybutton.ru/post/telegram-bot-na-aiogram3/aiogram3-1-nachinaem-sozdavat-telegram-bota/?utm_source=github&utm_medium=repo&utm_campaign=readme)
-6. 
+6. [AIOgram3 1.5. Регистрация бота](https://pressanybutton.ru/post/telegram-bot-na-aiogram3/aiogram3-15-registraciya-bota/?utm_source=github&utm_medium=repo&utm_campaign=readme)
+7. 
 
 </details>
 
