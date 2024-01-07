@@ -17,7 +17,8 @@
 2. [Django 2. Создание проекта](https://pressanybutton.ru/post/sajt-na-django/django-2-sozdanie-proekta/?utm_source=github&utm_medium=repo&utm_campaign=readme)
 3. [Django 3. Базовая конфигурация](https://pressanybutton.ru/post/sajt-na-django/django-3-bazovaya-konfiguraciya/?utm_source=github&utm_medium=repo&utm_campaign=readme) - 
 4. [Django 4. Суперпользователь и первый запуск](https://pressanybutton.ru/post/sajt-na-django/django-4-superpolzovatel-i-pervyj-zapusk/?utm_source=github&utm_medium=repo&utm_campaign=readme)
-5. 
+5. [AIOgram3 1. Начинаем создавать Telegram-бота](https://pressanybutton.ru/post/telegram-bot-na-aiogram3/aiogram3-1-nachinaem-sozdavat-telegram-bota/?utm_source=github&utm_medium=repo&utm_campaign=readme)
+6. 
 
 </details>
 
@@ -29,19 +30,23 @@ _Инструкция будет изменяться/дополняться п�
     ```powershell
     git clone https://github.com/proDreams/pressanybutton_project.git
     ```
-2. Установить зависимости:
+2. Перейти в директорию проекта:
+   ```powershell
+   cd pressanybutton
+   ```
+3. Установить зависимости:
     ```powershell
     pip install -r requirements.txt
     ```
-3. Применить миграции для создания БД:
+4. Применить миграции для создания БД:
     ```powershell
     python manage.py migrate
     ```
-4. Создать суперпользователя:
+5. Создать суперпользователя:
     ```powershell
     python manage.py createsuperuser
     ```
-5. Запустить веб-сервер:
+6. Запустить веб-сервер:
     ```powershell
     python manage.py runserver
     ```
