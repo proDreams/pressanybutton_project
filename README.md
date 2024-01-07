@@ -23,7 +23,8 @@
 5. [AIOgram3 1. Начинаем создавать Telegram-бота](https://pressanybutton.ru/post/telegram-bot-na-aiogram3/aiogram3-1-nachinaem-sozdavat-telegram-bota/?utm_source=github&utm_medium=repo&utm_campaign=readme)
 6. [AIOgram3 1.5. Регистрация бота](https://pressanybutton.ru/post/telegram-bot-na-aiogram3/aiogram3-15-registraciya-bota/?utm_source=github&utm_medium=repo&utm_campaign=readme)
 7. [AIOgram3 2. Точка входа](https://pressanybutton.ru/post/telegram-bot-na-aiogram3/aiogram3-2-tochka-vhoda/?utm_source=github&utm_medium=repo&utm_campaign=readme)
-8.
+8. [AIOgram3 3. Основная функция](https://pressanybutton.ru/post/telegram-bot-na-aiogram3/aiogram3-3-osnovnaya-funkciya/?utm_source=github&utm_medium=repo&utm_campaign=readme)
+9. 
 
 </details>
 
