@@ -14,6 +14,7 @@
 </summary>
 
 1. [Django 1. Установка Django](https://pressanybutton.ru/post/sajt-na-django/django-1-ustanovka-django/?utm_source=github&utm_medium=repo&utm_campaign=readme)
+2. [Django 2. Создание проекта](https://pressanybutton.ru/post/sajt-na-django/django-2-sozdanie-proekta/?utm_source=github&utm_medium=repo&utm_campaign=readme)
 
 </details>
 
